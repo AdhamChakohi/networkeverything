@@ -13,4 +13,4 @@ The google home is a product for a very niche market, however I think it is very
 Example of an internet of things device I find useless: [HiderateMe, the smart water bottle](https://www.kickstarter.com/projects/582920317/hidrateme-smart-water-bottle)
 
 if you start watching the video on this 'smart water bottle' kickstarter page (which got 20 times the funding it needed by the way), the video begins with this woman who is complaining about being tired after working out all the time, and then she realized that the reason she is tired is because she is not drinking water. I am not joking, go and watch it. She forgot to drink water. I don't know if the creaters of this smart water bottle realize, but usually humans have a pretty good indicator of needing water. Someone needs to tell them, and their backers on kickstarter.
-  - Swaggy 
+- Adham
